@@ -5,6 +5,7 @@ services:
     build: .
     volumes:
       - .:/code
+      - ./exchanges:/root/.catalyst/data/exchanges/
     ports:
       - "8000:8000"
     command: jupyter notebook --ip=0.0.0.0 --allow-root --port=8000
