@@ -54,7 +54,7 @@ jupyter-nbextensions-configurator==0.4.0
 kiwisolver==1.1.0
 Logbook==1.2.1
 lru-dict==1.1.6
-lxml==4.1.1
+lxml==4.6.2
 Mako==1.0.7
 MarkupSafe==1.0
 matplotlib==2.2.2
