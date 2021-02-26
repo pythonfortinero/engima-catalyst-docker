@@ -1,5 +1,5 @@
 aiodns==1.1.1
-aiohttp==3.0.1
+aiohttp==3.7.4
 alembic==0.9.7
 appnope==0.1.0
 async-timeout==2.0.0
